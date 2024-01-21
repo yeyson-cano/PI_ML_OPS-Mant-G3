@@ -8,7 +8,13 @@
 
 ![Alt text](src/MLOps.jpg)
 
-
+## **PROYECTO PARA GESTIÓN DE MANTENIMIENTO**
+## **Integrantes:**
+## **- Bianca Elizabeth Romero Diaz**
+## **- Yeyson Samir Cano Carbajo**
+## **- Richar Quispe Surco**
+## **- Gustavo Alonso Tuyo Acero**
+## **- Richard Saul Alvarez Huarsaya**
 
 ## **ESTRUCTURA DEL PROYECTO** :white_circle:
 
