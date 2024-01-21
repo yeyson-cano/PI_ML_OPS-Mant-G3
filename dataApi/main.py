@@ -20,7 +20,7 @@ async def index():
     return "Los cuatro métodos de búsqueda (funciones) son: 1. get_max_duration, 2. get_score_count, 3. get_count_platform y 4. get_actor"
 
 
-
+# Lectura del archivo csv
 df = pd.read_csv('datasets/full_titles.csv')
 
 
