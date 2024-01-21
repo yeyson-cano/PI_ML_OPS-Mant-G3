@@ -64,6 +64,7 @@ def get_max_duration(year: Optional[int] = None, platform: Optional[str] = None,
     
         return result
 
+    # capturar una excepción de tipo ValueError, y retornar un diccionario con una clave "error" 
     except ValueError as e:
         return {"error": str(e)}
     
@@ -147,3 +148,5 @@ def get_actor(platform: str, release_year: int) -> Tuple[int, List[str]]:
     
     # Devolver el resultado como una tupla con la cantidad máxima y la lista de actores
     return max_appearances, most_common_actors
+
+#############################################################################################################
