@@ -147,3 +147,5 @@ def get_actor(platform: str, release_year: int) -> Tuple[int, List[str]]:
     
     # Devolver el resultado como una tupla con la cantidad máxima y la lista de actores
     return max_appearances, most_common_actors
+
+#############################################################################################################
